@@ -1,0 +1,6 @@
+objectid,filename,youtubeid,vimeoid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
+coll001,1.pdf,,,PDF from ScienceDirect,KL,2022-11-11,Demo File,Science,Manila,,,ScienceDirect,,PDF,application/pdf,,,
+coll002,2.pdf,,,PDF from ScienceDirect,KL,2022-11-11,Demo File,Science,Manila,,,ScienceDirect,,PDF,application/pdf,,,
+coll003,3.pdf,,,PDF from ScienceDirect,KL,2022-11-11,Demo File,Science,Manila,,,ScienceDirect,,PDF,application/pdf,,,
+coll004,4.pdf,,,PDF from ScienceDirect,KL,2022-11-11,Demo File,Science,Manila,,,ScienceDirect,,PDF,application/pdf,,,
+coll005,5.pdf,,,PDF from ScienceDirect,KL,2022-11-11,Demo File,Science,Manila,,,ScienceDirect,,PDF,application/pdf,,,
