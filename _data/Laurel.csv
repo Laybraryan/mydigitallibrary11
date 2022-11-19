@@ -1,6 +1,6 @@
 objectid,filename,youtubeid,vimeoid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
-coll001,1.jpeg,,,Photo from the past,KL,1980,Demo File,Laurel,Manila,,,LPU Archives,,Image;StillImage,image/jpeg,,,
-coll002,2.jpeg,,,Photo from the past,KL,1980,Demo File,Laurel,Manila,,,LPU Archives,,Image;StillImage,image/jpeg,,,
-coll003,3.jpeg,,,Photo from the past,KL,1980,Demo File,Laurel,Manila,,,LPU Archives,,Image;StillImage,image/jpeg,,,
-coll004,4.jpeg,,,Photo from the past,KL,1980,Demo File,Laurel,Manila,,,LPU Archives,,Image;StillImage,image/jpeg,,,
-coll005,5.jpeg,,,Photo from the past,KL,1980,Demo File,Laurel,Manila,,,LPU Archives,,Image;StillImage,image/jpeg,,,
+coll001,1,,,Photo from the past,KL,1980,Demo File,Laurel,Manila,,,LPU Archives,,Image;StillImage,image/jpeg,,,
+coll002,2,,,Photo from the past,KL,1980,Demo File,Laurel,Manila,,,LPU Archives,,Image;StillImage,image/jpeg,,,
+coll003,3,,,Photo from the past,KL,1980,Demo File,Laurel,Manila,,,LPU Archives,,Image;StillImage,image/jpeg,,,
+coll004,4,,,Photo from the past,KL,1980,Demo File,Laurel,Manila,,,LPU Archives,,Image;StillImage,image/jpeg,,,
+coll005,5,,,Photo from the past,KL,1980,Demo File,Laurel,Manila,,,LPU Archives,,Image;StillImage,image/jpeg,,,
